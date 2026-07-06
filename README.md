@@ -1,18 +1,15 @@
 <!-- SECTION A: ANIMATED HEADER -->
 <div align="center">
-    <img src="
+ <img src="
 " width="100" />
-    <h1>👋 Hi, I'm Soniya Kamireddy</h1>
-    <h2>
-        <img src=" "C:\Users\shaik\Downloads\WhatsApp Image 2026-07-06 at 12.09.07.jpeg"lines=Full+Stack+Developer;Creating+Beautiful+Web+Experiences ;" />
-    </h2>
+ <h1>👋 Hi, I'm Soniya Kamireddy</h1>
+ <h2>Full Stack Developer; Creating Beautiful Web Experiences</h2>
 </div>
 
 <!-- SECTION B: ABOUT ME -->
 ### About Me
 I am a passionate Full Stack Developer eager to create impactful web applications. I love learning new technologies and sharing knowledge through my content on various platforms.
 
-- 🎥 Content Creator: Check out my journey on [YouTube](), [Medium](), and [Instagram]( https://www.instagram.com/soniya_kamireddy?igsh=MTJsODE0ZDA5ODFrcg== ).
 - 🚀 I have a knack for solving complex problems.
 - 💡 Always exploring the latest trends in technology.
 - 👩‍🎓 Proud to have served as the IUCEE President.
@@ -37,26 +34,10 @@ I am a passionate Full Stack Developer eager to create impactful web application
 
 <!-- SECTION D: SOCIAL MEDIA LINKS -->
 ### Social Media Links
-[![YouTube]( https://img.shields.io/badge/YouTube-FF0000?style=social&logo=youtube )]()
-[![Medium]( https://img.shields.io/badge/Medium-00AB6C?style=social&logo=medium )]( https://medium.com )
 [![Instagram]( https://img.shields.io/badge/Instagram-E1306C?style=social&logo=instagram&logoColor=white )]( https://www.instagram.com/soniya_kamireddy?igsh=MTJsODE0ZDA5ODFrcg== )
 [![LinkedIn]( https://img.shields.io/badge/LinkedIn-0A66C2?style=social&logo=linkedin&logoColor=white )]( https://www.linkedin.com/in/soniyakamireddy )
 
 <!-- SECTION E: GITHUB STATS -->
 ### GitHub Stats
 ![Soniya's GitHub Stats]( https://github-readme-stats.vercel.app/api?username=Soniyakamireddy388&show_icons=true&theme=tokyonight )
-![Soniya's GitHub Streak]( https://github-readme-streak-stats.herokuapp.com/?user=Soniyakamireddy388&theme=tokyonight )
-![Top Languages]( https://github-readme-stats.vercel.app/api/top-langs/?username=Soniyakamireddy388&theme=tokyonight )
-
-<!-- SECTION F: GITHUB TROPHIES -->
-### GitHub Trophies
-![GitHub Profile Trophy]( https://github-profile-trophy.vercel.app/?username=Soniyakamireddy388&theme=darkhub )
-
-<!-- SECTION G: VISITOR COUNTER -->
-![Profile Views]( https://komarev.com/ghpvc/?username=Soniyakamireddy388 )
-
-<!-- SECTION H: FOOTER -->
-### Let's Connect
-Feel free to reach out on any of my social platforms!
-
-Thank you for stopping by! Looking forward to connecting with you.
+![Soniya's GitHub Streak](https
