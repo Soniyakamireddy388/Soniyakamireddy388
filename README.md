@@ -4,7 +4,7 @@
 " width="100" />
     <h1>👋 Hi, I'm Soniya Kamireddy</h1>
     <h2>
-        <img src=" https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Creating+Beautiful+Web+Experiences ;" />
+        <img src=" "C:\Users\shaik\Downloads\WhatsApp Image 2026-07-06 at 12.09.07.jpeg"lines=Full+Stack+Developer;Creating+Beautiful+Web+Experiences ;" />
     </h2>
 </div>
 
