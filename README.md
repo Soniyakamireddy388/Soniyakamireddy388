@@ -9,7 +9,6 @@ SECTION B: ABOUT ME
 (YouTube, Medium, Instagram)
 - Add 3-4 fun bullet points about me
 - Use relevant emojis
-
 SECTION C: TECH STACK
 - Add shields.io badges for ALL my technologies
 - Use colored badges with logos
